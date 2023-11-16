@@ -1,8 +1,8 @@
 # script-gui
-A simple GUI for running python scripts
+A simple GUI for running routine python scripts
 
 
-main.py can be edited to change button labels. More definitions can be created to expand the number of scripts that can be used from the GUI.
+main.py can be edited to change button labels. More functions can be created quickly to expand the number of scripts that can be used from the GUI.
 
 To do this, add a new definition for a script, such as:
 def run_script_4():
